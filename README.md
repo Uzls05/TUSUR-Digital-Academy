@@ -1,2 +1,2 @@
 # TUSUR-Digital-Academy
-Python Developer
+Trying to be Python Developer
