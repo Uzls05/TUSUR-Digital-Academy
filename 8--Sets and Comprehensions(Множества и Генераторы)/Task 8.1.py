@@ -1,4 +1,4 @@
-elements_list = list(input("Введите элементы списка без пробела: \n"))
+elements_list = list(map(int, input("Введите элементы списка через пробел: \n").split()))
 
 not_unic_elements = [
     x for x in elements_list
